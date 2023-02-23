@@ -1,8 +1,8 @@
 # Trojan Detection
 
-Names: *Duncan Byrne*, 
+Names: *Duncan Byrne*, *Jackson Krieger*
 
-Github: *nacnud04*, 
+Github: *nacnud04*, *jackson-krieger*
 
 ## Summary
 Use small body orbit information to detect planetary trojans using neural network or other methods.
