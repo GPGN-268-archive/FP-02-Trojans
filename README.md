@@ -22,6 +22,7 @@ NASA small body dataset - https://ssd.jpl.nasa.gov/sb/
 ## Tools/packages you will use
 [Pandas](https://pandas.pydata.org/)
 [Numpy](https://numpy.org/)
+[Matplotlib](https://matplotlib.org/)
 [Scikit-learn](https://scikit-learn.org/stable/) 
 
 ## Planned methodology
