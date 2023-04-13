@@ -20,9 +20,13 @@ Can we accurately predict if an asteroid is a trojan and identify orbit data tre
 NASA small body dataset - https://ssd.jpl.nasa.gov/sb/
 
 ## Tools/packages you will use
+
 [Pandas](https://pandas.pydata.org/)
+
 [Numpy](https://numpy.org/)
+
 [Matplotlib](https://matplotlib.org/)
+
 [Scikit-learn](https://scikit-learn.org/stable/) 
 
 ## Planned methodology
@@ -30,17 +34,19 @@ NASA small body dataset - https://ssd.jpl.nasa.gov/sb/
 * Remove bad data
 * Generate plots to visualize trends & better understand relationships between variables
 * Remove unnecessary variables from the data to crop it down to a level where Jupiter trojan detection is accurate.
-* Check filter accuracy
+* Develop & train model
+* Test model and analyze results.
 
 ## Anticipated challenges
-* Predicting if a small body is a trojan based on time based parameters.
+* Finding useful parameters and understanding their meaning.
+* Predicting if a small body is a trojan via non-distance based parameters.
 
 ## Expected outcomes
 Hopefully this methodology sorts trojans and non-trojans with an accuracy of greater than 80%
 
 ## Summary of results
-The filtering methods used resulted in an accuracy of 99.7% which is much higher than originally expected.
-We correctly identified 9791 trojans and 3062 non-trojans while incorrectly identifying only 23 trojans and 25 non-trojans.  
+The filtering methods used resulted in an accuracy of 99.6% which is much higher than originally expected.
+We correctly identified 9791 trojans and 3062 non-trojans while incorrectly identifying only 20 trojans and 26 non-trojans.  
 
 ## Links to references
 * https://ssd.jpl.nasa.gov/diagrams/elem_dist.html
