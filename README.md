@@ -39,7 +39,7 @@ NASA small body dataset - https://ssd.jpl.nasa.gov/sb/
 * Test model and analyze results.
 
 ## Summary of results
-Applying a simple threshold detection system on the semi-major axis variable, with a cap on eccentricity based on the orbit parameters (perihelion and aphelion of jupiter) resulted in 99.5%
+Applying a simple threshold detection system on the semi-major axis variable, with a cap on eccentricity based on the orbit parameters (perihelion and aphelion of jupiter) resulted in 99.5% accuracy.
 <br><br>
 When the model was trained on the following parameters (MOID-earth, MOID-jupiter, eccentricity, perihelion distance) and the other parameters were filtered out, the final model had an accuracy of 99.6% which is much higher than originally expected.
 We correctly identified 9791 trojans and 3062 non-trojans while incorrectly identifying only 20 trojans and 26 non-trojans.  
