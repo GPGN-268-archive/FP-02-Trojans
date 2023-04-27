@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GPGN-268/FP-02-Trojans/HEAD)
+
 # Trojan Detection
 
 Names: *Duncan Byrne*, *Jackson Krieger*
