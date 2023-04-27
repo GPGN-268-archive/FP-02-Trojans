@@ -59,3 +59,6 @@ From the difference in the accuracy of the threshold model, versus the trained m
 * https://ssd.jpl.nasa.gov/diagrams/elem_dist.html
 * https://ssd.jpl.nasa.gov/tools/sbdb_query.html
 * http://www.minorplanetcenter.org/iau/lists/NeptuneTrojans.html
+
+## Reference notebook
+* https://github.com/GPGN-268/FP-02-Trojans/blob/main/notebooks/final.ipynb
