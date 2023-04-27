@@ -4,6 +4,9 @@ Names: *Duncan Byrne*, *Jackson Krieger*
 
 Github: *nacnud04*, *jackson-krieger*
 
+## Getting started
+Clone the repository and all data and notebooks will be available
+
 ## Summary
 Use small body orbit information to differentiate jupiter trojans, vs non trojan bodies.
 
