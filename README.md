@@ -51,7 +51,8 @@ This shows that jupiter trojan/non-trojans can be differentiated by other orbita
 From the difference in the accuracy of the threshold model, versus the trained model it is clear that while there was a small improvement, the benefits of training a model vs doing a simple threshold are essentially 0. Therefore, due to efforts of making and training a model, in most all applications this would not be worth the effort.
 
 ## Contribution statement
-**Duncan** - *Did most of the theory work and programming* <br>
+**Duncan** - *Did most of the theory work and programming* 
+<br><br>
 **Jackson** - *Worked on analysing input variables and figuring out which parameters should be omitted from testing*
 
 ## Links to references
